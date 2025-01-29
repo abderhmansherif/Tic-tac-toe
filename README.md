@@ -1,5 +1,3 @@
 # Tic-tac-toe
 Tic Tac Toe project was written with c++ language 
-___
-## Project Notes
 
